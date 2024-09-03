@@ -1,6 +1,5 @@
 # Hi! I'm Gaby Alanis💖
 
-### 
 * Current undergraduate Architetcure student at the University of Colorado Boulder
 * 
 
