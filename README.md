@@ -9,4 +9,7 @@
 * Project Management
 * Technical Design Skills
 
-
+## Currently Learning
+* QGIS
+* Rhino
+* Python
