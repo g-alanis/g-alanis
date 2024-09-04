@@ -1,5 +1,6 @@
 # <p align="center">Hi! I'm Gaby Alanis💖
 
+## About Me:
 * Current undergraduate Architetcure student at the University of Colorado Boulder
 * 
 
@@ -9,7 +10,7 @@
 * Project Management
 * Technical Design Skills
 
-## Currently Learning
+## Currently Learning:
 * QGIS
 * Rhino
 * Python
