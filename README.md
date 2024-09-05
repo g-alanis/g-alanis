@@ -1,8 +1,8 @@
 # <p align="center">Hi! I'm Gaby Alanis💖
 
 ## About Me:
-* Current undergraduate Architetcure student at the University of Colorado Boulder
-* 
+* Current Undergraduate Architetcure student at the University of Colorado Boulder
+* Currently hold a Minor in Geology and a Certificate in Archictectural Engineering: Lighting Design
 
 ## Skills:
 * BIM (Revit, Blender)
