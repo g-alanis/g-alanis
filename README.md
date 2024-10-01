@@ -2,11 +2,11 @@
 
 ## About Me:
 * Current Undergraduate Architetcure student at the University of Colorado Boulder
-* Currently hold a Minor in Geology and a Certificate in Archictectural Engineering: Lighting Design
+* Currently hold a Minor in Creative Technology & Design and a Certificate in Archictectural Engineering: Lighting Design
 
 ## Skills:
 * BIM (Revit, Blender)
-* CAD (SketchUp, AutoCAD)
+* CAD (SketchUp, AutoCAD, OnShape)
 * Project Management
 * Technical Design Skills
 
@@ -15,6 +15,7 @@
 * Rhino
 * Python
 * ArchiCAD
+* Sketch
 
 ## Tools I Have Used and Learned
 <p align="left">
